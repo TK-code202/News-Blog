@@ -86,3 +86,6 @@ button {
 
 }
 
+p {
+    cursor: pointer;
+}
