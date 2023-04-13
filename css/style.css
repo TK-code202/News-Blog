@@ -1,0 +1,91 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow-x: hidden;
+}
+
+.Logo-Section {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
+.content {
+    margin-top: 70px;
+}
+p {
+    width: 500px;
+    font-family: cursive;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgba(0, 206, 209, 0.219);
+}
+
+#News1 {
+    display: flex;
+    gap:80px;
+    align-items: center;
+}
+
+#News2 {
+    display:flex;
+    gap: 80px;
+    align-items: center;
+}
+
+.sub-section2 {
+    margin-top: 80px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+
+button {
+    width: 100px;
+    height: 40px;
+}
+.txt-color {
+    color: white;
+}
+.settings{
+    margin-left: 2rem;
+    
+   
+}
+.choice-show {
+    display: flex;
+    align-items: baseline;
+    gap: 1px;
+    display: none;
+}
+
+
+.clickable :hover {
+    cursor: pointer;
+}
+
+
+.white-background {
+    background-color: white;
+}
+
+.black-background {
+    background-color: #343a40;
+}
+
+.highlight {
+    background-color: #FFFF00;
+    color: grey;
+    border-style: solid;
+    border-width:5px;
+    border-radius: 1px;
+
+}
+
+.p1, .p2 {
+    cursor: pointer;
+}
