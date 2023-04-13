@@ -20,13 +20,7 @@ $(document).ready(function() {
 
 
 
-    $("p#highlight-me").click(function() {
-     
-      $("p").removeClass();
-    $(this).addClass("highlight");
 
-
-  });
 
    
 
