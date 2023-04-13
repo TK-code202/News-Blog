@@ -1,4 +1,4 @@
-# _ANews Blog_
+# _A News Blog_
 
 #### _This is a simple news blog._
 
