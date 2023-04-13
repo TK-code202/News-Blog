@@ -34,13 +34,6 @@ $(document).ready(function() {
 
 
 
-  
-
-  $("p#highlighted").click(function() {
-     
-    $("p").removeClass();
-  $(this).addClass("highlight");
-});
 
 
 
